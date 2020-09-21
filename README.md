@@ -1,6 +1,5 @@
-### Hi there 👋
-
 UX Researcher @ Microsoft (www.microsoft.com)
+
 Musician @ Spacebarman (www.spacebarman.com)
 
 <!--
