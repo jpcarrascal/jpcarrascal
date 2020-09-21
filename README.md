@@ -1,6 +1,16 @@
-UX Researcher @ Microsoft (www.microsoft.com)
+### JP Carrascal
 
-Musician @ Spacebarman (www.spacebarman.com)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jpcarrascal&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+
+During the day, I am UX Researcher @ Microsoft (www.microsoft.com)
+
+At night, I am a musician @ Spacebarman (www.spacebarman.com)
+
+### More info:
+* [juanpcarrascal@gmail.com](mailto:hantsy@gmail.com)
+* [www.jpcarrascal.com/](http://www.jpcarrascal.com/)
+* [@jpcarrascal](https://twitter.com/jpcarrascal)
+
 
 <!--
 **jpcarrascal/jpcarrascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
