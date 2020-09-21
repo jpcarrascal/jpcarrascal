@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+UX Researcher @ Microsoft (www.microsoft.com)
+Musician @ Spacebarman (www.spacebarman.com)
+
 <!--
 **jpcarrascal/jpcarrascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
