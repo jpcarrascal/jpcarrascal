@@ -1,7 +1,8 @@
 ### JP Carrascal
 
-
+<!---
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jpcarrascal&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+--->
 
 Day job: Researcher @ Microsoft (www.microsoft.com)
 
